@@ -1,6 +1,7 @@
 ## Monomorphism is an Expandable 2D Game 👋
 
-🙋‍♀️ Our team (including [Jiarui Jin])
+🙋‍♀️ Our team (including [Jiarui Jin](https://github.com/Jinjiarui), Zhuang Guan)
+
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
