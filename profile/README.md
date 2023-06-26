@@ -1,5 +1,5 @@
 <h3 align="center">
-    Monomorphism is an Expandable 2D Game
+    Monomorphism is an Extendable 2D Game
     <img src="https://c.tenor.com/StmGV2_YmjEAAAAi/winking-face-joypixels.gif" width="25px">
 </h3>
 
